@@ -1,0 +1,191 @@
+Index: .idea/modules.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"ProjectModuleManager\">\r\n    <modules>\r\n      <module fileurl=\"file://$PROJECT_DIR$/.idea/BrowserStackPorject.iml\" filepath=\"$PROJECT_DIR$/.idea/BrowserStackPorject.iml\" />\r\n    </modules>\r\n  </component>\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/modules.xml b/.idea/modules.xml
+--- a/.idea/modules.xml	(revision 9c0ced8cb545bb9942abca3c9c43c6f7f3e3ccad)
++++ b/.idea/modules.xml	(date 1731858933016)
+@@ -2,7 +2,7 @@
+ <project version="4">
+   <component name="ProjectModuleManager">
+     <modules>
+-      <module fileurl="file://$PROJECT_DIR$/.idea/BrowserStackPorject.iml" filepath="$PROJECT_DIR$/.idea/BrowserStackPorject.iml" />
++      <module fileurl="file://$PROJECT_DIR$/.idea/BrowserStackProject.iml" filepath="$PROJECT_DIR$/.idea/BrowserStackProject.iml" />
+     </modules>
+   </component>
+ </project>
+\ No newline at end of file
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"ChangeListManager\">\r\n    <list default=\"true\" id=\"8e06682f-4f06-41bf-83bc-bae13db809c5\" name=\"Changes\" comment=\"\" />\r\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\r\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\r\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\r\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\r\n  </component>\r\n  <component name=\"Git.Settings\">\r\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\r\n  </component>\r\n  <component name=\"ProjectColorInfo\"><![CDATA[{\r\n  \"associatedIndex\": 3\r\n}]]></component>\r\n  <component name=\"ProjectId\" id=\"2oz2HZ3MR0HTcfqvw82eNBxzspz\" />\r\n  <component name=\"ProjectLevelVcsManager\" settingsEditedManually=\"true\" />\r\n  <component name=\"ProjectViewState\">\r\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\r\n    <option name=\"showLibraryContents\" value=\"true\" />\r\n  </component>\r\n  <component name=\"PropertiesComponent\"><![CDATA[{\r\n  \"keyToString\": {\r\n    \"RunOnceActivity.OpenProjectViewOnStart\": \"true\",\r\n    \"RunOnceActivity.ShowReadmeOnStart\": \"true\",\r\n    \"git-widget-placeholder\": \"master\"\r\n  }\r\n}]]></component>\r\n  <component name=\"SharedIndexes\">\r\n    <attachedChunks>\r\n      <set>\r\n        <option value=\"bundled-python-sdk-50da183f06c8-d3b881c8e49f-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-233.13135.95\" />\r\n      </set>\r\n    </attachedChunks>\r\n  </component>\r\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\r\n  <component name=\"TaskManager\">\r\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\r\n      <changelist id=\"8e06682f-4f06-41bf-83bc-bae13db809c5\" name=\"Changes\" comment=\"\" />\r\n      <created>1731857997250</created>\r\n      <option name=\"number\" value=\"Default\" />\r\n      <option name=\"presentableId\" value=\"Default\" />\r\n      <updated>1731857997250</updated>\r\n    </task>\r\n    <servers />\r\n  </component>\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	(revision 9c0ced8cb545bb9942abca3c9c43c6f7f3e3ccad)
++++ b/.idea/workspace.xml	(date 1731859223415)
+@@ -1,7 +1,14 @@
+ <?xml version="1.0" encoding="UTF-8"?>
+ <project version="4">
++  <component name="AutoImportSettings">
++    <option name="autoReloadType" value="SELECTIVE" />
++  </component>
+   <component name="ChangeListManager">
+-    <list default="true" id="8e06682f-4f06-41bf-83bc-bae13db809c5" name="Changes" comment="" />
++    <list default="true" id="8e06682f-4f06-41bf-83bc-bae13db809c5" name="Changes" comment="new project created.">
++      <change beforePath="$PROJECT_DIR$/.idea/BrowserStackPorject.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/BrowserStackProject.iml" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
++    </list>
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+@@ -23,9 +30,119 @@
+   "keyToString": {
+     "RunOnceActivity.OpenProjectViewOnStart": "true",
+     "RunOnceActivity.ShowReadmeOnStart": "true",
+-    "git-widget-placeholder": "master"
++    "git-widget-placeholder": "master",
++    "last_opened_file_path": "C:/Users/user/beewaProjectAutomation/BrowserStackPorject"
+   }
+ }]]></component>
++  <component name="RecentsManager">
++    <key name="CopyFile.RECENT_KEYS">
++      <recent name="C:\Users\user\beewaProjectAutomation\BrowserStackPorject" />
++    </key>
++  </component>
++  <component name="RunManager">
++    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
++      <module name="BrowserStackProject" />
++      <option name="ENV_FILES" value="" />
++      <option name="INTERPRETER_OPTIONS" value="" />
++      <option name="PARENT_ENVS" value="true" />
++      <envs>
++        <env name="PYTHONUNBUFFERED" value="1" />
++      </envs>
++      <option name="SDK_HOME" value="" />
++      <option name="WORKING_DIRECTORY" value="" />
++      <option name="IS_MODULE_SDK" value="false" />
++      <option name="ADD_CONTENT_ROOTS" value="true" />
++      <option name="ADD_SOURCE_ROOTS" value="true" />
++      <option name="SCRIPT_NAME" value="" />
++      <option name="PARAMETERS" value="" />
++      <option name="SHOW_COMMAND_LINE" value="false" />
++      <option name="EMULATE_TERMINAL" value="false" />
++      <option name="MODULE_MODE" value="false" />
++      <option name="REDIRECT_INPUT" value="false" />
++      <option name="INPUT_FILE" value="" />
++      <method v="2" />
++    </configuration>
++    <configuration default="true" type="Tox" factoryName="Tox">
++      <module name="BrowserStackProject" />
++      <option name="ENV_FILES" value="" />
++      <option name="INTERPRETER_OPTIONS" value="" />
++      <option name="PARENT_ENVS" value="true" />
++      <option name="SDK_HOME" value="" />
++      <option name="WORKING_DIRECTORY" value="" />
++      <option name="IS_MODULE_SDK" value="false" />
++      <option name="ADD_CONTENT_ROOTS" value="true" />
++      <option name="ADD_SOURCE_ROOTS" value="true" />
++      <method v="2" />
++    </configuration>
++    <configuration default="true" type="docs" factoryName="Docutils task">
++      <module name="BrowserStackProject" />
++      <option name="ENV_FILES" value="" />
++      <option name="INTERPRETER_OPTIONS" value="" />
++      <option name="PARENT_ENVS" value="true" />
++      <option name="SDK_HOME" value="" />
++      <option name="WORKING_DIRECTORY" value="" />
++      <option name="IS_MODULE_SDK" value="false" />
++      <option name="ADD_CONTENT_ROOTS" value="true" />
++      <option name="ADD_SOURCE_ROOTS" value="true" />
++      <option name="docutils_input_file" value="" />
++      <option name="docutils_output_file" value="" />
++      <option name="docutils_params" value="" />
++      <option name="docutils_task" value="" />
++      <option name="docutils_open_in_browser" value="false" />
++      <method v="2" />
++    </configuration>
++    <configuration default="true" type="docs" factoryName="Sphinx task">
++      <module name="BrowserStackProject" />
++      <option name="ENV_FILES" value="" />
++      <option name="INTERPRETER_OPTIONS" value="" />
++      <option name="PARENT_ENVS" value="true" />
++      <option name="SDK_HOME" value="" />
++      <option name="WORKING_DIRECTORY" value="" />
++      <option name="IS_MODULE_SDK" value="false" />
++      <option name="ADD_CONTENT_ROOTS" value="true" />
++      <option name="ADD_SOURCE_ROOTS" value="true" />
++      <option name="docutils_input_file" value="" />
++      <option name="docutils_output_file" value="" />
++      <option name="docutils_params" value="" />
++      <option name="docutils_task" value="" />
++      <option name="docutils_open_in_browser" value="false" />
++      <method v="2" />
++    </configuration>
++    <configuration default="true" type="tests" factoryName="Autodetect">
++      <module name="BrowserStackProject" />
++      <option name="ENV_FILES" value="" />
++      <option name="INTERPRETER_OPTIONS" value="" />
++      <option name="PARENT_ENVS" value="true" />
++      <option name="SDK_HOME" value="" />
++      <option name="WORKING_DIRECTORY" value="" />
++      <option name="IS_MODULE_SDK" value="false" />
++      <option name="ADD_CONTENT_ROOTS" value="true" />
++      <option name="ADD_SOURCE_ROOTS" value="true" />
++      <option name="_new_additionalArguments" value="&quot;&quot;" />
++      <option name="_new_target" value="&quot;&quot;" />
++      <option name="_new_targetType" value="&quot;PATH&quot;" />
++      <method v="2" />
++    </configuration>
++    <configuration default="true" type="tests" factoryName="Doctests">
++      <module name="BrowserStackProject" />
++      <option name="ENV_FILES" value="" />
++      <option name="INTERPRETER_OPTIONS" value="" />
++      <option name="PARENT_ENVS" value="true" />
++      <option name="SDK_HOME" value="" />
++      <option name="WORKING_DIRECTORY" value="" />
++      <option name="IS_MODULE_SDK" value="false" />
++      <option name="ADD_CONTENT_ROOTS" value="true" />
++      <option name="ADD_SOURCE_ROOTS" value="true" />
++      <option name="SCRIPT_NAME" value="" />
++      <option name="CLASS_NAME" value="" />
++      <option name="METHOD_NAME" value="" />
++      <option name="FOLDER_NAME" value="" />
++      <option name="TEST_TYPE" value="TEST_SCRIPT" />
++      <option name="PATTERN" value="" />
++      <option name="USE_PATTERN" value="false" />
++      <method v="2" />
++    </configuration>
++  </component>
+   <component name="SharedIndexes">
+     <attachedChunks>
+       <set>
+@@ -42,6 +159,19 @@
+       <option name="presentableId" value="Default" />
+       <updated>1731857997250</updated>
+     </task>
++    <task id="LOCAL-00001" summary="new project created.">
++      <option name="closed" value="true" />
++      <created>1731858613541</created>
++      <option name="number" value="00001" />
++      <option name="presentableId" value="LOCAL-00001" />
++      <option name="project" value="LOCAL" />
++      <updated>1731858613541</updated>
++    </task>
++    <option name="localTasksCounter" value="2" />
+     <servers />
+   </component>
++  <component name="VcsManagerConfiguration">
++    <MESSAGE value="new project created." />
++    <option name="LAST_COMMIT_MESSAGE" value="new project created." />
++  </component>
+ </project>
+\ No newline at end of file
+diff --git a/.idea/BrowserStackPorject.iml b/.idea/BrowserStackProject.iml
+rename from .idea/BrowserStackPorject.iml
+rename to .idea/BrowserStackProject.iml
